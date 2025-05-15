@@ -1,0 +1,15 @@
+depthPath=/home/yashashwee/cudaHello/dataset/MidAir/Kite_training/sunny/occluded_depth/train/
+colorPath=/home/yashashwee/cudaHello/dataset/MidAir/Kite_training/sunny/color_left/train/
+outPath=../tempOuts/outsDilate/
+initFrame=000000
+initRead=1
+initWindow=12
+final=200
+finishOffset=500
+filterType=ERODE
+depthCutoff=0.0
+resizeWH=800
+isResize=0
+minMatch=20
+fastMatchThres=60
+goodMatchThres=10
